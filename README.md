@@ -7,7 +7,7 @@
 
 [Example Site](https://theme-stack.jimmycai.com/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a2d2807a-a905-4bcb-97da-8da8d847da3d/deploy-status)](https://app.netlify.com/sites/hugo-theme-stack/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18d1716a-9958-4d97-9719-2de3b1abafba/deploy-status)](https://app.netlify.com/sites/ecstatic-lichterman-8a9c32/deploys)
 
 ## Documentation
 
