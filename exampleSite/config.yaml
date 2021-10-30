@@ -43,7 +43,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/67B533AE-35C0-4F88-BD08-A19CFF8E6ADD.jpeg
 
     article:
         math: false
